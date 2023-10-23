@@ -1,0 +1,19 @@
+3
+John Smith
+11/08/2002
+male
+full time
+1
+2
+Sarah Johnson
+11/08/2002
+female
+part time
+3
+3
+Robert Lee
+11/08/2002
+male
+full time
+2
+2
